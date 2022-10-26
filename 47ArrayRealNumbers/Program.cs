@@ -6,12 +6,12 @@
 double[,] RandomArray(int m, int n, int minValue, int maxValue)
 {
     double[,] randomArray = new double[m, n];
-    Random random = new Random();
+    //Random random = new Random();
     for (int i = 0; i < m; i++)
     {
         for (int j = 0; j < n; j++)
         {
-            randomArray[i, j] = random.Next(minValue, maxValue) + random.NextDouble();
+            randomArray[i, j] = new Random().Next(minValue, maxValue) + new Random().NextDouble();
         }
     }
     return randomArray;
