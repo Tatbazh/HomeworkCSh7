@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\bin\Debug\net6.0\50FindNumber.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\bin\Debug\net6.0\50FindNumber.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\bin\Debug\net6.0\50FindNumber.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\bin\Debug\net6.0\50FindNumber.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\bin\Debug\net6.0\50FindNumber.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\refint\50FindNumber.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\50FindNumber.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\50FindNumber\obj\Debug\net6.0\ref\50FindNumber.dll

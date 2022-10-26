@@ -1,0 +1,5 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\47ArrayRealNumbers\obj\Debug\net6.0\47ArrayRealNumbers.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\47ArrayRealNumbers\obj\Debug\net6.0\47ArrayRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\47ArrayRealNumbers\obj\Debug\net6.0\47ArrayRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\47ArrayRealNumbers\obj\Debug\net6.0\47ArrayRealNumbers.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh7\homework\47ArrayRealNumbers\obj\Debug\net6.0\47ArrayRealNumbers.csproj.CoreCompileInputs.cache
